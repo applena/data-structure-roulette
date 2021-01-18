@@ -1,0 +1,27 @@
+body{
+  width: 400px;
+  margin: auto;
+  background-color: saddlebrown;
+  color: papayawhip;
+
+  .app{
+    background-color: seashell;
+    color: burlywood;
+    text-align: center;
+    padding-top: 200px;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 100vh;
+    
+    button{
+      padding: 4px;
+    }
+
+    p{
+      border: 4px solid darkgray;
+      background-color: whitesmoke;
+      color: black;
+      font-size: 2em;
+    }
+  }
+}
