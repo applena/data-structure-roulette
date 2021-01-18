@@ -23,7 +23,7 @@ function App() {
       <button onClick={generageChallenge}>Generate Challenge</button>
 
       {display && 
-        <p>Given a {dataStructure[num1]}, find the {logic[num2]} ... {method[num3]}.</p>
+        <p>Given a {dataStructure[num1]}, find the {logic[num2]}.</p>
       }
     </div>
   );
