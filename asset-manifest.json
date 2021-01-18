@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/dsaroulette/static/css/main.ddb42fba.chunk.css",
-    "main.js": "/dsaroulette/static/js/main.33437bb3.chunk.js",
-    "main.js.map": "/dsaroulette/static/js/main.33437bb3.chunk.js.map",
-    "runtime-main.js": "/dsaroulette/static/js/runtime-main.b4912949.js",
-    "runtime-main.js.map": "/dsaroulette/static/js/runtime-main.b4912949.js.map",
-    "static/js/2.257a8e68.chunk.js": "/dsaroulette/static/js/2.257a8e68.chunk.js",
-    "static/js/2.257a8e68.chunk.js.map": "/dsaroulette/static/js/2.257a8e68.chunk.js.map",
-    "index.html": "/dsaroulette/index.html",
-    "static/css/main.ddb42fba.chunk.css.map": "/dsaroulette/static/css/main.ddb42fba.chunk.css.map",
-    "static/js/2.257a8e68.chunk.js.LICENSE.txt": "/dsaroulette/static/js/2.257a8e68.chunk.js.LICENSE.txt"
+    "main.css": "/data-structure-roulette/static/css/main.ddb42fba.chunk.css",
+    "main.js": "/data-structure-roulette/static/js/main.33437bb3.chunk.js",
+    "main.js.map": "/data-structure-roulette/static/js/main.33437bb3.chunk.js.map",
+    "runtime-main.js": "/data-structure-roulette/static/js/runtime-main.babe4428.js",
+    "runtime-main.js.map": "/data-structure-roulette/static/js/runtime-main.babe4428.js.map",
+    "static/js/2.257a8e68.chunk.js": "/data-structure-roulette/static/js/2.257a8e68.chunk.js",
+    "static/js/2.257a8e68.chunk.js.map": "/data-structure-roulette/static/js/2.257a8e68.chunk.js.map",
+    "index.html": "/data-structure-roulette/index.html",
+    "static/css/main.ddb42fba.chunk.css.map": "/data-structure-roulette/static/css/main.ddb42fba.chunk.css.map",
+    "static/js/2.257a8e68.chunk.js.LICENSE.txt": "/data-structure-roulette/static/js/2.257a8e68.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b4912949.js",
+    "static/js/runtime-main.babe4428.js",
     "static/js/2.257a8e68.chunk.js",
     "static/css/main.ddb42fba.chunk.css",
     "static/js/main.33437bb3.chunk.js"
